@@ -9,6 +9,5 @@ C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\bin\Debug\Tic_Tac_Toe.exe.config
 C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\bin\Debug\Tic_Tac_Toe.exe
 C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\bin\Debug\Tic_Tac_Toe.pdb
 C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.csprojAssemblyReference.cache
-C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
 C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.exe
 C:\Users\drjac\Documents\GITHUB\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.pdb
